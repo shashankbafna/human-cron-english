@@ -9,8 +9,8 @@ Sample use:
 ./human-cron.sh [user]
 
 Sample output:
--+ komenda /usr/sbin/quotacheck -avug zostanie wykonana codziennie o godzinie 3:00
+-+ the command /usr/sbin/quotacheck -avug will be executed every day at 3:00
 
-Outpu commands only in polish language.
+Output commands only in english language.
 
 Version 1.0
